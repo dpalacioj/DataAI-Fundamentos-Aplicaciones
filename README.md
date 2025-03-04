@@ -26,3 +26,5 @@ Este repositorio se encuentra en una fase inicial. Se irá ampliando progresivam
 ---
 
 *Nota: Este README es un abrebocas; próximamente se agregará el contenido completo de cada curso.*
+
+Para garantizar
