@@ -16,3 +16,5 @@ dependencies:
   - ninja2
   - opencv-python
   - pytest
+  - plotly
+  - nbformat
