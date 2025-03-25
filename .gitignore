@@ -1,2 +1,6 @@
 .venv/
 docs/index.html
+
+Analitica/ciencia_datos_con_python/notebooks-teoria/*.csv
+Analitica/ciencia_datos_con_python/notebooks-teoria/*.xlsx
+Analitica/ciencia_datos_con_python/notebooks-teoria/*.parquet
