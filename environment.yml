@@ -18,3 +18,4 @@ dependencies:
   - pytest
   - plotly
   - nbformat
+  - polars
