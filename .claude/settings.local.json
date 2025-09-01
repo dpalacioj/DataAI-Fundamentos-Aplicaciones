@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude doctor)",
+      "Bash(claude doctor:*)",
+      "Bash(claude --version)",
+      "Bash(rm:*)",
+      "Bash(uv:*)",
+      "Bash(mv:*)",
+      "Bash(gh gist create:*)"
+    ],
+    "deny": []
+  }
+}

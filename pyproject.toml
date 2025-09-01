@@ -1,0 +1,35 @@
+[project]
+name = "dataai-fundamentos-aplicaciones"
+version = "0.1.0"
+description = "Repositorio académico de cursos universitarios sobre Ciencia de Datos e Inteligencia Artificial"
+authors = [
+    {name = "David Palacio", email = "david.palacio@ejemplo.com"}
+]
+requires-python = ">=3.11"
+keywords = ["data-science", "machine-learning", "education", "jupyter", "analytics"]
+
+dependencies = [
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "scipy>=1.10.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "plotly>=5.15.0",
+    "scikit-learn>=1.3.0",
+    "pycaret>=3.0.0",
+    "streamlit>=1.25.0",
+    "polars>=0.18.0",
+    "pyarrow>=12.0.0",
+    "jupyter>=1.0.0",
+    "notebook>=6.5.0",
+    "ipykernel>=6.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "flake8>=6.0.0",
+    "mypy>=1.0.0",
+    "isort>=5.12.0",
+]

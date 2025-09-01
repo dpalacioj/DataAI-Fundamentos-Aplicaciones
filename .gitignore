@@ -7,3 +7,4 @@ Analitica/ciencia_datos_con_python/notebooks-teoria/*.parquet
 Analitica/ciencia_datos_con_python/tareas/datos/linkedin_job_postings.csv
 Analitica/proyectos/titanic/modelos/titanic_classification-random_forest-v1.joblib
 Analitica/proyectos/titanic/notebooks/.env
+CLAUDE.md
