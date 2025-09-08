@@ -1,6 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+
+# Virtual Environment
 .venv/
+env/
+venv/
+ENV/
+
+# Documentation
 docs/index.html
 
+# Data files
 Analitica/ciencia_datos_con_python/notebooks-teoria/*.csv
 Analitica/ciencia_datos_con_python/notebooks-teoria/*.xlsx
 Analitica/ciencia_datos_con_python/notebooks-teoria/*.parquet

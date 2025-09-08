@@ -8,7 +8,13 @@
       "Bash(uv:*)",
       "Bash(mv:*)",
       "Bash(gh gist create:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(python -m jupyter nbconvert:*)",
+      "Bash(python3:*)",
+      "Bash(source:*)",
+      "Bash(.venv/bin/jupyter nbconvert:*)",
+      "Bash(cat:*)"
     ],
     "deny": []
   }
