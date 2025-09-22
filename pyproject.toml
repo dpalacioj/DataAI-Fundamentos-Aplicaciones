@@ -3,7 +3,7 @@ name = "dataai-fundamentos-aplicaciones"
 version = "0.1.0"
 description = "Repositorio académico de cursos universitarios sobre Ciencia de Datos e Inteligencia Artificial"
 authors = [
-    {name = "David Palacio", email = "david.palacio@ejemplo.com"}
+    {name = "David Palacio", email = "davidpalacioj@gmail.com"}
 ]
 requires-python = ">=3.11"
 keywords = ["data-science", "machine-learning", "education", "jupyter", "analytics"]
@@ -24,6 +24,7 @@ dependencies = [
     "notebook>=6.5.0",
     "ipykernel>=6.0.0",
     "prophet>=1.1.7",
+    "opencv-python>=4.11.0.86",
 ]
 
 [dependency-groups]
