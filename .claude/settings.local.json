@@ -14,7 +14,9 @@
       "Bash(python3:*)",
       "Bash(source:*)",
       "Bash(.venv/bin/jupyter nbconvert:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(python -m nbconvert:*)",
+      "mcp__ide__executeCode"
     ],
     "deny": []
   }
